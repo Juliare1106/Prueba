@@ -8,5 +8,7 @@
   <?php echo '<p>Presentado por:</p>'; ?>
   <?php echo '<p>Julián Andrés Arévalo Hernandez </p>'; ?>
   <?php echo '<p>ID 000386352 </p>'; ?>
+  <?php echo '<p>Presentado a: </p>'; ?>
+  <?php echo '<p>Geovanny Poveda </p>'; ?>
  </body>
 </html>
